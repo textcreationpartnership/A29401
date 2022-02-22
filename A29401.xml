@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Breif [sic] account of many memorable passages of the life &amp; death of the Earle of Shaftsbury ... who departed this life the 21st day of December, 1683 ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29401</idno>
+            <idno type="STC">Wing B4503</idno>
+            <idno type="STC">ESTC R17676</idno>
+            <idno type="EEBO-CITATION">12395250</idno>
+            <idno type="OCLC">ocm 12395250</idno>
+            <idno type="VID">61128</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29401)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61128)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 271:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Breif [sic] account of many memorable passages of the life &amp; death of the Earle of Shaftsbury ... who departed this life the 21st day of December, 1683 ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Coniers in Duck-Lane,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61128:1"/>
+            <pb facs="tcp:61128:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Breif Account of many memorable Paſſages of the</hi> LIFE &amp; DEATH OF THE EARLE <hi>OF</hi> SHAFTSBURY. <hi>Sometime Lord High Chancellor of</hi> ENGLAND, <hi>Who Departed this life the</hi> 21ſt. <hi>day of</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 1683.</p>
+            <p>GIVING An impartiall Relation of his Loyalty to His Majeſty in the late times, and the great endeavours he uſed, to bring in the King into <hi>England,</hi> unto his juſt rights, in peace and ſafe<g ref="char:EOLhyphen"/>ty; with His Majeſties gratefull acknowledgment of theſe his kindneſſes to him, in preferring him to ſeveral Eminent Places of Honour, and Truſt. Together, with his great pa<g ref="char:EOLhyphen"/>tience under the loſs of the ſame. Alſo his twice Impriſon<g ref="char:EOLhyphen"/>ment in the Tower, and his witty anſwer to one of the Popiſh Lords upon his Impriſonment; his Releaſement, and ſeve<g ref="char:EOLhyphen"/>rall Plotts, and Sham-Plotts of the Papiſts, uſed to take a<g ref="char:EOLhyphen"/>way his Life for his vigalancy, and care for the Proteſtant Religion, and their diſappointments. Of his arrivall in <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> and his kind entertainment there. Together, with his Sickneſs, and worthy Speeches a little before his death. Concluded with a Prayer, worthy of the peruſall of all per<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>Printed for <hi>J. Coniers</hi> in Duck-Lane.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:61128:2"/>
+            <head>
+               <hi>A breif Account of ſome Remarkable paſſages of</hi> The LIFE &amp; DEATH OF THE <hi>EARLE</hi> of <hi>SHAFTSBURY.</hi>
+            </head>
+            <p>IT is not my preſumption, in this Sheet to write the Life of this great States-man, but to give the Reader a brief Account of ſome remarkable paſſages in the ſame, for the ſatisfaction of the meaner ſort, that cannot purchaſe large volumes.</p>
+            <p>
+               <hi>Anthony</hi> Earle of <hi>Shafisbicry,</hi> Baron <hi>Aſhley</hi> of <hi>Wimbourn,</hi> and Lord <hi>Cooper</hi> of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> as deſcended from the honourable and ancient Fa<g ref="char:EOLhyphen"/>mily of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>imbourn,</hi> St. <hi>Giles</hi>'s, in the County of <hi>Dorſet.</hi>
+            </p>
+            <p>We <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>firſt</hi> place, (laying aſide all his other vertues) treat of the Loyalty of this noble Peer, in the words of the late Author, ſaith he, Could we have taken a view of the inſide of this noble Peer, we might have ſeen his heart full of Loyalty to his Prince, love to his Countrey, zeale for the Proteſtant Rellgion; the feſtlement of which can only ſecure us from the attempts of His Majeſty's, and his people Enemies. With what admirable policy did influence and manage the Councils in the late times, in what he was concerned in? during the <hi>Inter Regnum,</hi> towards His Majeſty's intereſt, and with what admira<g ref="char:EOLhyphen"/>ble ſubtilty did he turn the ſtream of their Counſells? and with un<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wearied diligence did he tugg at the helm of State, till he had brought in his great Maſter the King into his Kingdomes again, in proſperity and ſafety, to the joy of all good Subjects.</p>
+            <p>His Houſe was a Sanctuary for diſtreſſed Loyalliſts, and his correct pondency with the King: Friends, though cloſely managed, as the neceſſity of thoſe times required, are not unknown to thoſe that we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the principle managers of his Majeſty affaires at that time; this ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the late Uſurper <hi>O. Cromwell</hi> ſo jealous of him, whoſe arbratary Go<g ref="char:EOLhyphen"/>vernment
+<pb n="3" facs="tcp:61128:2"/>he withſtood to the utmoſt of his power. And we find that Sir <hi>Anthony Aſhly Cooper</hi> was accuſed before the <hi>R<g ref="char:V">Ʋ</g>MP</hi> Parliament, in the Year 1659. for keeping intelligence with the King, and having provided Forces in <hi>Dorſet-ſhire,</hi> to joyn with Sir <hi>George Booth,</hi> in at<g ref="char:EOLhyphen"/>tempting to bring in our noble King, that now is to his rightfull Throne; and alſo his concurrence with Generall <hi>Monke,</hi> in that im<g ref="char:EOLhyphen"/>portunant juncture, if we remember that his Regiment was one of the firſt that declared for a <hi>Free Parliament,</hi> and Generall <hi>Monke</hi> in <hi>March,</hi> 1659. ſo zealous was he in putting all his ſtrength to turn the great Wheele of State.</p>
+            <p>And at the time of his Majeſties Reſtoration, as moſt ſignal teſtimo<g ref="char:EOLhyphen"/>ny of His Majeſty's good opinion of his former actions, he was ad<g ref="char:EOLhyphen"/>vanced to be one of the firſt rank in His Majeſty's moſt honourable Privy Councel, and was placed above his Royall Brother the Duke of <hi>Gloceſter,</hi> even Generall <hi>Monke</hi> himſelf, whom the King uſed to call his political father: And three dayes after His Majeſties Coronation, he was created Baron <hi>Aſhley</hi> of <hi>Wimbourn</hi> St. <hi>Giles</hi>'s, and alſo Lord <hi>Cooper</hi> of <hi>Paulet,</hi> and at laſt another mark of Royal favour in the Year 1672. He was made Earle of <hi>Shaftsbury,</hi> for his wiſe adminiſtration in his Majeſty's affaires, he was made Chancellour of the <hi>Exchequer,</hi> and ſome time after that, made Lord High Chancellour of <hi>England,</hi> about the beginning of the year 1672. which place he executed with the greateſt Judgment and Equity imaginable.</p>
+            <p>Thus having briefly traced this great Miniſter of State in theſe mighty imployments under his great and good maſter the King; I ſhall take ſome notice of his relinquiſhment of that high imployment, and what happened to him ſince:</p>
+            <p>About <hi>November,</hi> 1673. His Majeſty was pleaſed to ſend for the Lord Chancellour to <hi>Whitehall,</hi> where he reſigned the great Seale of <hi>England</hi> to his Majeſty, and was diſmiſt from being Treaſurer of the <hi>Exchecquer;</hi> In the Afternoon of the ſame day the Earle of <hi>Shaftsbury</hi> was viſited by Prince <hi>Rupert,</hi> with other great Lords, at <hi>Exeter</hi> houſe, whore they gave his Lordſhip thanks for his faithfull and honourable diſcharge of that great imployment. Thus this great Miniſter of State, to the univerſall ſatisfaction of all good men, being raiſed to that high degree of intereſt in his Maſters favour, without a murmur, laid all his honour at his Majeſties feet, and was obſerved not to abate of the cheerfulneſs of his temper, upon the loſs of all theſe temporal,
+<pb n="4" facs="tcp:61128:3"/>honourable, imployment: I ſhall conclude this part of his life with a Chanacter that a late Author gave of him.</p>
+            <p>His choice ſagacity,
+<q>
+                  <l>Strait ſolved the knot that ſubtile Lawyers ty'd,</l>
+                  <l>And through all foggs diſcern'd the oppreſſed ſide,</l>
+                  <l>Baniſh'd delays, and ſo this noble Peer</l>
+                  <l>Became a Star of honour in our Sphere:</l>
+                  <l>Aneedfull <hi>Atlas</hi> of our State.</l>
+               </q>
+            </p>
+            <p>On the <hi>16th.</hi> of <hi>February,</hi> 1676. this Earle was ſent Priſoner to the <hi>Tower,</hi> by the order of the Houſe of Lords; there were at the ſame time committed ſeveral other Lords, for maintaining, <hi>That the then Parliament was diſſolved, and ought not to ſit any longer;</hi> where he con<g ref="char:EOLhyphen"/>tinued Priſoner about a years time, and after his ſubmitting himſelf to His Majeſty and the Parliament, he was diſcharged by acknowledging his fault. A little after his releaſement this parliament was preroged and after diſſolved. Now was the wicked Plot of the Jeſuites, and Papiſts, diſcovered by the great fidelity of Dr. <hi>Oates,</hi> which convineed both King, Lords, and Commons, and all the Nation in generall, of a damnable, treaſonable, Popiſh deſign to murder our King, with the reſt of the Nobility, and Gentry, and to reduce the Proteſtant Church to <hi>Komiſh</hi> Idolatry, and the State to a <hi>Catholique</hi> ſlavery.</p>
+            <p>On the <hi>7th.</hi> of <hi>march,</hi> 1678. Another Parliament met at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter;</hi> This Parliament did, like noble Patriots, endeavour to give check to the bloody Popiſh deſignes a foot, and paſſed many excellent Votes for that purpoſe, many Members acquited themſelves in their Speeches like men of high ſenſe of the miſeries the nation was like to be involved in; this Houſe carried up their impeachments to the Houſe of Lords, againſt the Lord <hi>Pouis, Stafford, Arundel,</hi> Lord <hi>Peters,</hi> Lord <hi>Bellaſis,</hi> for high Treaſon, and other high Crimes: But I ſhall forbear mentioning any farther, only inſtance how this noble Peer was ſtruck at in the Helliſh deſign; I ſhall referr the Reader to what hath been allready publiſhed in Print, onely note two or three things of ſome perſons, that made attempts on the life of this noble Peer, firſt, by <hi>Dangerfield,</hi> who had a great ſumm offered him to have murdered the Earle of <hi>Shaftsbury,</hi> on whom the rage of the bloody Romiſh party was now ſo great, that they left no baſe and unwarrantable action un<g ref="char:EOLhyphen"/>attempted, To robb him of his life; ſome were hyred to ſtab or Piſtoll him; others to ſwear Treaſon againſt him; or any other way
+<pb n="5" facs="tcp:61128:3"/>the Devil put in their heads. Another deſign againſt this noble Peer was to have been acted by a woman, called, Madam <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llier,</hi> a Popiſh Midwife, which ſhe attempted that curſed deſign under the pretence of a viſite to the Earle, and under pretence of her paying her thanks for favours received through his meanes; but ſhe had a conſecrated Dag<g ref="char:EOLhyphen"/>ger under the skirt of her gown, ready to have expreſt her gratitude, by opening the veins of this Proteſtant Peers heart.</p>
+            <p>Is then loyall innocency, and Proteſtant integrity, Armour of proof againſt Poyſons, Piſtolls, and Poniards? no; the <hi>Catholick</hi> Gallantry ſtops not here, but purſues this noble Peer with forgery of his hand, and other little ſham-plotts; what baſe and villainous acts the bloody Papiſts uſed, to deſtroy the Earle of <hi>Shaftsbury,</hi> by many en<g ref="char:EOLhyphen"/>deavours to have ſtabb'd him, as hath been depoſed by many perſons, to whom the Parliament, as well as the nation, have given beleif. I ſhall inſtance one more of their miſcheifous practiſes in this kind: There was a Gentleman who was a Commander of a Regiment of Horſe, in the late King's Army, and loſt all for his ſake, and his preſent Majeſty's, writ to this noble Peer about a remedy againſt the Gout, which he uſed to be afflicted with very much; this Letter was inter<g ref="char:EOLhyphen"/>cepted, and (the perſon then living in the <hi>French</hi> King's Dominions) after adding to it an account, <hi>that the Writer was able to furniſh the Earle with forty thouſand Souldiers from</hi> France, <hi>to oppoſe the D. of</hi> Yorks <hi>Intereſt;</hi> it was then conveyed to ſome of the <hi>French</hi> King's Miniſters, who, they ſuppoſe, would ſend a Copy hither: but by a ſtrange pro<g ref="char:EOLhyphen"/>vidence, the original was returned into the Gentleman's own hands.</p>
+            <p>Nor were they yet wanting in throwing dirt and ſlandring this No<g ref="char:EOLhyphen"/>ble Peer, in his Reputation, which faculty they are famous at, for now a Pacquet of baſe Libels and treaſonable reflections were by the Penny poſt ſent to a Printer, and Copies of the ſame diſperſt about the parts of <hi>Weſtminſter,</hi> All of venomous and malicious ſlanders and imputations, tending to the taking away the Life of the Earl of <hi>Shaftſ<g ref="char:EOLhyphen"/>bury</hi> and divers other Peers of Honourable account; but the Printer deteſting ſuch a deſigne, publiſhed an invitation to any perſon that would diſcover the Author or publiſher of that infamous Libel. And now we are got into ſuch a bog of Plots, ſhamplots, Perjurers, ſubor<g ref="char:EOLhyphen"/>nations, as the hiſtories of no Age can parallel: In <hi>October,</hi> during the Seſſions of the laſt Parliament, its remarkable, that <hi>Franciſco de Fa<g ref="char:EOLhyphen"/>ria</hi> Interpreter to the <hi>Portugal</hi> Embaſſadour, amongſt other matters
+<pb n="6" facs="tcp:61128:4"/>relating to the Plot, gave Information to the Bar of the houſe that he was tempted to kill the Earl of <hi>Shaftsbury</hi> by throwing a hand Grana<g ref="char:EOLhyphen"/>do into his Coach as he paſſed the rode into the Countrey. But to ſumm up all, ſeveral methods that were invented to be Executed a<g ref="char:EOLhyphen"/>gainſt the Life of this Peer were innumerable by theſe Jeſuited Crew, who ſet all her inventions and engines on work to make away the Earl of <hi>Shaftsbury,</hi> he was the Beam in their eye, and that clog that hindred the motion of their curſt deſignes; what have they not at<g ref="char:EOLhyphen"/>tempted to make him diſtaſteful to the King through the foulneſs of their treaſons on him as was made appear before the King &amp; Coun<g ref="char:EOLhyphen"/>cel in <hi>October</hi> 1681. that <hi>Fitzgerard</hi> told Mr. <hi>Haines</hi> that he the ſaid <hi>Fitzgerard</hi> poſſeſſed his Majeſty, and had given it under his hand and Seal, that the late Plot was a Presbyterian Plot, and invented by the Earl of <hi>Shaftsbury</hi> on purpoſe to exterpate the Royal Family, and to dethrone his preſent Majeſty, and turn <hi>England</hi> into a Common<g ref="char:EOLhyphen"/>weal, or elſe to ſet the Crown upon the Earls own head, with more ſuch wicked treaſonable matter, a further Account you may have in his Tryal.</p>
+            <p>But a new Parliament was ſummoned to appear at <hi>Oxford,</hi> where things of as high nature was Agitated, as ever came before the conſi<g ref="char:EOLhyphen"/>deration of a Parliament, no leſs then preſervation of the Kings Ma<g ref="char:EOLhyphen"/>jeſty's perſon, the Proteſtant Religion, &amp; the good of the people of <hi>England,</hi> All which now was invaded by the bloody dſigns of the Papiſts, but being very hot about the buſineſs of <hi>Fitzharris</hi> &amp; things of the like nature, it pleaſed his Majeſty to diſſolve them.</p>
+            <p>Sometime after <hi>Fiezharris</hi> was tryed and Executed, The Earle of <hi>Shaftsbury</hi> was again committed to the <hi>Tower</hi> of <hi>London,</hi> the cir<g ref="char:EOLhyphen"/>cumſtance of his Examination and Aquital would take too much room here to be recited. To finiſh this tragical ſtory, only I cannot omit that on the 15. <hi>Auguſt</hi> 1681. Mrs, <hi>Fitzharris</hi> gave a depoſition on Oath, that her husband a little before his Execution, not only told her what great offers he had made him if he would have charged that trea<g ref="char:EOLhyphen"/>ſonable and infamous Libel (for which he was executed afterwards for,) on this Noble Peer, and the Lord <hi>Howard,</hi> and that he adviſed her to do it to ſave his life, though he proteſted at the ſame time that they were wholly innocent; ſhe likewiſe depoſed that a certain Gen<g ref="char:EOLhyphen"/>tleman aſſured her that ſhe ſhould have what money ſhe pleaſed, if ſhe would accuſe the Earl and the Lord <hi>Howard</hi> as the Authors of the ſaid
+<pb n="7" facs="tcp:61128:4"/>Libel, but they having tampered with ſo many on the account of this baſted deſign, but that it was impoſſible but their conſult muſt take wind, eſpecially when we conſider they were a people, that either to ſupply their neceſſities, or to feed their ambition, or more probable thought inreſiſtable fatility had blab'd and diſcovered the ſecrets of holy mother, and had ſpake ſo unſeaſonably in her tip that they had ſpoyld her game, what ſecurity could theſe Romiſh Sophiſters have, but that their cork'd veſſel would prove leaky again? I ſhall give one memorable paſſage, ſaid to have paſſed between the Earl and one of the Popiſh Lords, ſoon after his Commitment; the ſtory is this, mee<g ref="char:EOLhyphen"/>ting accidently with one of the Popiſh Lords, he was asked by him <hi>what his Lordſhip did there, and that he little thought to have his good compa<g ref="char:EOLhyphen"/>ny?</hi> to which the Earl of <hi>Shaftsbury</hi> replyed, <hi>that he had lately been ſick of an Ague, and was come there to take ſome Jeſuits powder.</hi> It was ſaid, during the whole time of his Lordſhip being in the Tower, he remai<g ref="char:EOLhyphen"/>ned very chearful beyond what could have been expected from a per<g ref="char:EOLhyphen"/>ſon labouring under ſuch extream pains and diſeaſes; during the Earls impriſonment, many made it their buſineſs to detract and villify him and it was their mode to drink his health at an hepenſtring, and call him <hi>Tony Tapskin</hi> and King of <hi>Poland.</hi> After the Earls Tryal, it is re<g ref="char:EOLhyphen"/>ported he Arreſted one <hi>Baines,</hi> one of the witneſſes for a Conſpiracy, alſo ſeveral others, but being not ſuffred to have his Tryal againſt them in <hi>London,</hi> and <hi>Midleſex,</hi> he remitted the ſame till another oportunity. Thus have we given a brief account of the moſt remarka<g ref="char:EOLhyphen"/>ble things relating this great Peer, to this time, after which he lived very private at his houſe in <hi>Alderſgate ſtreet,</hi> till the beginning of the month of <hi>November,</hi> when tis reported he left <hi>England</hi> and landed at <hi>Brill</hi> in <hi>Holland,</hi> where he was nobly entertained by the States, and as ſome ſay, hath put into their ſtock a conſiderable ſumm of mony.</p>
+            <p>But amongſt the reſt, let us take cognizance of his deportment in the time of his ſeeming affliction, he was little or nothing diſmaid at the contrary current which oppoſed the ſtream of his aſpiring mind, which was a generous and magnanimous ſpirit in him, for indeed he was as much befriended by unexpected favours abroad, as afflicted by domeſtick troubles in his own native ſoil, his reception in <hi>Hol<g ref="char:EOLhyphen"/>land</hi> was unqueſtionably very kind, as doubtleſs was appertinent to a perſon of his parts. It is not to be doubted but the many tranſacti<g ref="char:EOLhyphen"/>ons happening in his time had recorded him there as well as in other
+<pb n="8" facs="tcp:61128:5"/>Countries for a Polititian, and ſo was he received by them. His de<g ref="char:EOLhyphen"/>portment there was ſuch, that he obliged all that came near him, in<g ref="char:EOLhyphen"/>dulged all that knew him, and at this death, left no man without an obligation of a <hi>memento.</hi> It was much to be taken notice of, that du<g ref="char:EOLhyphen"/>ring the time of his ilneſs, he rather ſeemed to be of better compoſure in mind than ordinary, as ſeeming to imbrace his malady, with a kind of welcome, that might tranſmute his ſoul into that endleſs hap<g ref="char:EOLhyphen"/>pineſs which he had been ſo long labouring for, he ſeemed to covet after that continual bleſſing which alone makes happy, and rejoyc'd at his approching change; Oh happy is that man, who like an un<g ref="char:EOLhyphen"/>daunted Champion, can boldly look upon the pale meſſenger of grim death without terrour, when no aſtoniſhment comes to amaze the drooping ſences, but on the contrary, if ſilled with comfort, at the perfect aſſurance of a better ſtate, by the help and aſſiſtance of a bleſſed change, no peace like a quiet mind, no comfort like the peace of conſcience, nor no conqueſt like the victory over ſin, thrice hap<g ref="char:EOLhyphen"/>py is that man whom the thoughts of death cannot terrify; then let us all labour ſo to live here, that we may aſſure our ſelves of an inhe<g ref="char:EOLhyphen"/>ritance hereafter that ſhall furniſh our ſouls with joys everlaſting that have no end. But when he perceived that his fatal hour was moſt cer<g ref="char:EOLhyphen"/>tainly appreaching, with a moſt heavenly frame he prepared himſelf to meet with that unwelcome meſſenger, taking great and particular care of his Menial ſervants, that will imprint a memorial in their (now bleeding) hearts; ſo having ſetled affairs in his houſe according to his own mind and Will, he recommended his ſoul to him that gave it, in theſe following words and manner.</p>
+            <p>O <hi>Moſt gracious and merciful Lord God, who out of thy infinite mercy and goodneſs haſt preſerved and protected me through an O<g ref="char:EOLhyphen"/>cean of trouble and perplexity, yea, and brought me out of a laba<g ref="char:EOLhyphen"/>rinth of danger, which without thine aſſiſtance I could never have waded through, and now ſince by thy mercy I am made ſenſible of thy unſpeakable Love ſo me in this my laſt hour; I beſeech thee with an unfeigned deſire to have mercy upon my immortal ſoul, and let thine Angel conduct it to the Throne of thine everlaſting happineſs. Lord preſerve and keep my Severaign Leige</hi> Charles <hi>the II. King of the Land of my Nativity, protect that poor Nation, now in a tottering condition, from the yoke and burthen of Popiſh tyranny, that the Gospel may flouriſh in the dominions thereof, Lord ſtrengthen me in this hour of tribulation, that I may cheerfully paſs through the dark paſſage, which leads to thy never fading light;</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61128:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
